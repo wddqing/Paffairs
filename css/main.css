@@ -1,5 +1,42 @@
 @CHARSET "utf-8";
-.hell{
-	font-size: 20px;
-    padding: 0;
+
+.footer{
+    font-size: 14px;
+    font-family: monospace;
+    color:#b0e0e6;
+    text-align: center ;
+}
+hr{
+    width: 766px;
+}
+h2{
+    margin-left: 300px;
+}
+h1{
+    text-align: center;
+}
+.display_done{
+    width:746px;
+    text-align: left;
+    margin-left: 320px;
+}
+.display_never{
+    width:746px;
+    text-align: left;
+    margin-left: 320px;
+}
+td{
+    padding-bottom: 10px;
+    padding-right: 10px;
+    min-width: :100px;
+}
+th{
+    min-width: :100px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.add{
+    width:746px;
+    text-align: left;
+    margin-left: 320px;
 }
