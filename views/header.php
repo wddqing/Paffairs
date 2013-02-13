@@ -21,6 +21,9 @@
                 <a class="visit" href="apps/Paffaris.php">Pass view</a>
             </li>
             <li>
+                <a class="visit" href="apps/signed.php" >Signed daily</a >
+            </li>
+            <li>
                <a class="visit" href="#">about me</a>
             </li>
 

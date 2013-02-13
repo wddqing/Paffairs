@@ -2,92 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad187fea-5024-4575-b5f6-25c8d3de68a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/timeline-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/timeline-texture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/timeline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/gfx/timeline-dark.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/gfx/timeline.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/codekit-config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/AbrilFatface-Average.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Arvo-PTSans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Bevan-PotanoSans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/BreeSerif-OpenSans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/DroidSerif-DroidSans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Georgia-Helvetica.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Lekton-Molengo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Lora-Istok.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Merriweather-NewsCycle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/NewsCycle-Merriweather.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/NixieOne-Ledger.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/PT.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/PTSerif-PTSans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Pacifico-Arimo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/PlayfairDisplay-Muli.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/PoiretOne-Molengo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Rancho-Gudea.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/SansitaOne-Kameron.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/css/timeline.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/cz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/dk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/hy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/kr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/ta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/tl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/zh-ch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/zh-tw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/storyjs-embed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/timeline-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/js/timeline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/compiled/lib/jquery-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/jade/example_googlespreadsheet.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/jade/example_json.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/jade/example_jsonp.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/jade/example_storify.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/jade/generator.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/jade/includes/ascii.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/jade/includes/mixins.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/jade/index.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/jade/sections/embed-generator.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/jade/sections/example-head.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/js/VMM.TImeline.Min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/js/VMM.Timeline.DataObj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/js/VMM.Timeline.License.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/js/VMM.Timeline.TimeNav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/js/VMM.Timeline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/less/Theme/Dark.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/less/VMM.Timeline.TimeNav.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimelineJS-master/source/less/VMM.Timeline.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/json.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/ajax_signed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/signed.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/Paffaris.php" afterPath="$PROJECT_DIR$/apps/Paffaris.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/header.php" afterPath="$PROJECT_DIR$/views/header.php" />
     </list>
     <ignored path="Paffaris.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -111,7 +32,84 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="signed.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/signed.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="78" column="42" selection-start="2498" selection-end="2498" vertical-scroll-proportion="-3.5357144">
+              <folding>
+                <marker date="1360752158487" expanded="true" signature="788:856" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="795:856" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="807:837" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="1240:1262" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="1329:1351" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="1419:1441" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="1512:1534" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="1687:2018" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="1699:2018" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="1712:1872" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="2515:2712" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="2532:2611" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="2628:2712" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="2679:2712" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="2788:2842" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="2809:2842" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="2908:2941" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="3083:3381" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="3083:3351" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="3095:3351" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="3095:3111" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="3096:3381" placeholder="..." />
+                <marker date="1360752158487" expanded="true" signature="3126:3234" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mygoal.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/mygoal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="104" column="10" selection-start="3438" selection-end="3438" vertical-scroll-proportion="-12.178572">
+              <folding>
+                <marker date="1360688339999" expanded="true" signature="2173:2303" placeholder="..." />
+                <marker date="1360688339999" expanded="true" signature="2689:2722" placeholder="..." />
+                <marker date="1360688339999" expanded="true" signature="2989:3165" placeholder="..." />
+                <marker date="1360688339999" expanded="true" signature="3102:3165" placeholder="..." />
+                <marker date="1360688339999" expanded="true" signature="3226:3259" placeholder="..." />
+                <marker date="1360688339999" expanded="true" signature="3438:3677" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajax_signed.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/ajax_signed.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="28" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.30612245">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="83" column="22" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="18" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -133,21 +131,25 @@
         <option value="$PROJECT_DIR$/config/dbconnect.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/common/afteraction.php" />
-        <option value="$PROJECT_DIR$/views/header.php" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/apps/json.php" />
         <option value="$PROJECT_DIR$/TimelineJS-master/example_json.json" />
         <option value="$PROJECT_DIR$/data/json.json" />
         <option value="$PROJECT_DIR$/apps/mygoal.php" />
+        <option value="$PROJECT_DIR$/views/header.php" />
         <option value="$PROJECT_DIR$/apps/Paffaris.php" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/apps/ajax_signed.php" />
+        <option value="$PROJECT_DIR$/apps/signed.php" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="1366" />
-    <option name="height" value="744" />
+    <option name="x" value="-1" />
+    <option name="y" value="-6" />
+    <option name="width" value="1368" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -221,6 +223,74 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Paffaris" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Paffaris" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TimelineJS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Paffaris" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Paffaris" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TimelineJS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Paffaris" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Paffaris" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TimelineJS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Paffaris" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Paffaris" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -333,7 +403,11 @@
       <created>1360689282446</created>
       <updated>1360689282446</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="基本完成时光轴,补充文件">
+      <created>1360689718434</created>
+      <updated>1360689718434</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -357,26 +431,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
+    <frame x="-1" y="-6" width="1368" height="775" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1867378" sideWeight="0.33387887" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Kahlua" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1867378" sideWeight="0.32569557" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1867378" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1867378" sideWeight="0.33387887" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Kahlua" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -418,7 +492,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="基本完成时光轴" />
+    <option name="LAST_COMMIT_MESSAGE" value="基本完成时光轴,补充文件" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -434,26 +508,12 @@
     <MESSAGE value="test" />
     <MESSAGE value="demo1" />
     <MESSAGE value="基本完成时光轴" />
+    <MESSAGE value="基本完成时光轴,补充文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common/preaction.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/common.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -484,19 +544,9 @@
         <state line="9" column="19" selection-start="136" selection-end="136" vertical-scroll-proportion="0.35869566" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/preaction.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="21" selection-start="225" selection-end="225" vertical-scroll-proportion="0.4288499" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="228" selection-end="228" vertical-scroll-proportion="0.037931036" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/json.json">
@@ -504,14 +554,84 @@
         <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="31" selection-start="682" selection-end="682" vertical-scroll-proportion="0.8804348">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/apps/Paffaris.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="38" selection-start="949" selection-end="949" vertical-scroll-proportion="0.4489796" />
+        <state line="24" column="0" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="22" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/mygoal.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="14" selection-start="1649" selection-end="1649" vertical-scroll-proportion="0.7755102" />
+        <state line="104" column="10" selection-start="3438" selection-end="3438" vertical-scroll-proportion="-12.178572">
+          <folding>
+            <marker date="1360688339999" expanded="true" signature="2173:2303" placeholder="..." />
+            <marker date="1360688339999" expanded="true" signature="2689:2722" placeholder="..." />
+            <marker date="1360688339999" expanded="true" signature="2989:3165" placeholder="..." />
+            <marker date="1360688339999" expanded="true" signature="3102:3165" placeholder="..." />
+            <marker date="1360688339999" expanded="true" signature="3226:3259" placeholder="..." />
+            <marker date="1360688339999" expanded="true" signature="3438:3677" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/signed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="42" selection-start="2498" selection-end="2498" vertical-scroll-proportion="-3.5357144">
+          <folding>
+            <marker date="1360752158487" expanded="true" signature="788:856" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="795:856" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="807:837" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="1240:1262" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="1329:1351" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="1419:1441" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="1512:1534" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="1687:2018" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="1699:2018" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="1712:1872" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="2515:2712" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="2532:2611" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="2628:2712" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="2679:2712" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="2788:2842" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="2809:2842" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="2908:2941" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="3083:3381" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="3083:3351" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="3095:3351" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="3095:3111" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="3096:3381" placeholder="..." />
+            <marker date="1360752158487" expanded="true" signature="3126:3234" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/ajax_signed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="28" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.30612245">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

@@ -47,6 +47,9 @@
                 <a class="visit" href="Paffaris.php">Pass view</a>
             </li>
             <li>
+                <a class="visit" href="signed.php" >Signed daily</a >
+            </li>
+            <li>
                <a class="visit" href="#">about me</a>
             </li>
 
