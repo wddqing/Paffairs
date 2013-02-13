@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad187fea-5024-4575-b5f6-25c8d3de68a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/ajax_signed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/signed.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/Paffaris.php" afterPath="$PROJECT_DIR$/apps/Paffaris.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/ajax_signed.php" afterPath="$PROJECT_DIR$/apps/ajax_signed.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/header.php" afterPath="$PROJECT_DIR$/views/header.php" />
     </list>
     <ignored path="Paffaris.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,48 +32,8 @@
       <file leaf-file-name="signed.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/signed.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="42" selection-start="2498" selection-end="2498" vertical-scroll-proportion="-3.5357144">
-              <folding>
-                <marker date="1360752158487" expanded="true" signature="788:856" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="795:856" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="807:837" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="1240:1262" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="1329:1351" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="1419:1441" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="1512:1534" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="1687:2018" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="1699:2018" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="1712:1872" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="2515:2712" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="2532:2611" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="2628:2712" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="2679:2712" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="2788:2842" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="2809:2842" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="2908:2941" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="3083:3381" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="3083:3351" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="3095:3351" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="3095:3111" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="3096:3381" placeholder="..." />
-                <marker date="1360752158487" expanded="true" signature="3126:3234" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mygoal.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/mygoal.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="10" selection-start="3438" selection-end="3438" vertical-scroll-proportion="-12.178572">
-              <folding>
-                <marker date="1360688339999" expanded="true" signature="2173:2303" placeholder="..." />
-                <marker date="1360688339999" expanded="true" signature="2689:2722" placeholder="..." />
-                <marker date="1360688339999" expanded="true" signature="2989:3165" placeholder="..." />
-                <marker date="1360688339999" expanded="true" signature="3102:3165" placeholder="..." />
-                <marker date="1360688339999" expanded="true" signature="3226:3259" placeholder="..." />
-                <marker date="1360688339999" expanded="true" signature="3438:3677" placeholder="..." />
-              </folding>
+            <state line="20" column="5" selection-start="788" selection-end="788" vertical-scroll-proportion="-3.9285715">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,7 +41,7 @@
       <file leaf-file-name="ajax_signed.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apps/ajax_signed.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="28" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.30612245">
+            <state line="30" column="70" selection-start="1760" selection-end="1760" vertical-scroll-proportion="0.46938777">
               <folding />
             </state>
           </provider>
@@ -103,7 +59,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="18" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
+            <state line="6" column="34" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,18 +94,17 @@
         <option value="$PROJECT_DIR$/views/header.php" />
         <option value="$PROJECT_DIR$/apps/Paffaris.php" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/apps/ajax_signed.php" />
         <option value="$PROJECT_DIR$/apps/signed.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/apps/ajax_signed.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="-6" />
-    <option name="width" value="1368" />
-    <option name="height" value="775" />
+    <option name="y" value="24" />
+    <option name="width" value="1366" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -193,7 +148,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -338,14 +292,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.pluginManager" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -407,7 +362,11 @@
       <created>1360689718434</created>
       <updated>1360689718434</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="完成签到部分">
+      <created>1360753649793</created>
+      <updated>1360753649793</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -431,26 +390,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-6" width="1368" height="775" extended-state="6" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1867378" sideWeight="0.33387887" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Kahlua" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1867378" sideWeight="0.32569557" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1867378" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1867378" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1867378" sideWeight="0.33387887" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Kahlua" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -492,7 +451,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="基本完成时光轴,补充文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成签到部分" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -509,11 +468,19 @@
     <MESSAGE value="demo1" />
     <MESSAGE value="基本完成时光轴" />
     <MESSAGE value="基本完成时光轴,补充文件" />
+    <MESSAGE value="完成签到部分" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/common/common.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -577,7 +544,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/mygoal.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="10" selection-start="3438" selection-end="3438" vertical-scroll-proportion="-12.178572">
+        <state line="48" column="10" selection-start="1830" selection-end="1830" vertical-scroll-proportion="0.8200371">
           <folding>
             <marker date="1360688339999" expanded="true" signature="2173:2303" placeholder="..." />
             <marker date="1360688339999" expanded="true" signature="2689:2722" placeholder="..." />
@@ -589,47 +556,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/signed.php">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="42" selection-start="2498" selection-end="2498" vertical-scroll-proportion="-3.5357144">
-          <folding>
-            <marker date="1360752158487" expanded="true" signature="788:856" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="795:856" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="807:837" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="1240:1262" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="1329:1351" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="1419:1441" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="1512:1534" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="1687:2018" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="1699:2018" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="1712:1872" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="2515:2712" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="2532:2611" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="2628:2712" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="2679:2712" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="2788:2842" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="2809:2842" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="2908:2941" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="3083:3381" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="3083:3351" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="3095:3351" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="3095:3111" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="3096:3381" placeholder="..." />
-            <marker date="1360752158487" expanded="true" signature="3126:3234" placeholder="..." />
-          </folding>
+        <state line="6" column="34" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/apps/signed.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
+        <state line="20" column="5" selection-start="788" selection-end="788" vertical-scroll-proportion="-3.9285715">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/ajax_signed.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="28" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.30612245">
+        <state line="30" column="70" selection-start="1760" selection-end="1760" vertical-scroll-proportion="0.46938777">
           <folding />
         </state>
       </provider>

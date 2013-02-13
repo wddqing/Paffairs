@@ -4,8 +4,14 @@ function signed(message_id){
        'type':"post",
        'data':"message_id="+message_id,
        'success':function(msg){
-          $('#'+message_id).text(msg.times);
-          $('#table_signed').after(msg.signed);
+           console.log(msg.times);
+          if(msg.times == "never"){
+            alert('too quick!');
+          }else{
+            $('#'+message_id).text(msg.times);
+            $('#table_signed').after(msg.signed);
+          }
+
        }
     });
 }
