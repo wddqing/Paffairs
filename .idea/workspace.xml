@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad187fea-5024-4575-b5f6-25c8d3de68a0" name="Default" comment="">
+    <list default="true" id="ad187fea-5024-4575-b5f6-25c8d3de68a0" name="Default" comment="签到部分进行优化">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/.gitmodules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/codekit-config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/AbrilFatface-Average.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Arvo-PTSans.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Bevan-PotanoSans.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/BreeSerif-OpenSans.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/DroidSerif-DroidSans.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Georgia-Helvetica.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Lekton-Molengo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Lora-Istok.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Merriweather-NewsCycle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/NewsCycle-Merriweather.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/NixieOne-Ledger.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/PT.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/PTSerif-PTSans.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Pacifico-Arimo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/PlayfairDisplay-Muli.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/PoiretOne-Molengo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/Rancho-Gudea.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/font/SansitaOne-Kameron.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/timeline-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/themes/timeline-texture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/timeline.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/css/timeline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/cz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/dk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/fo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/hy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/kr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/ta.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/tl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/zh-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/locale/zh-tw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/storyjs-embed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/timeline-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/js/timeline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/compiled/lib/jquery-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/gfx/timeline-dark.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/gfx/timeline.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/jade/example_googlespreadsheet.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/jade/example_json.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/jade/example_jsonp.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/jade/example_storify.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/jade/generator.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/jade/includes/ascii.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/jade/includes/mixins.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/jade/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/jade/sections/embed-generator.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/jade/sections/example-head.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/js/VMM.TImeline.Min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/js/VMM.Timeline.DataObj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/js/VMM.Timeline.License.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/js/VMM.Timeline.TimeNav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/js/VMM.Timeline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/less/Theme/Dark.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/less/VMM.Timeline.TimeNav.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TimelineJS-master/source/less/VMM.Timeline.less" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/ajax_signed.php" afterPath="$PROJECT_DIR$/apps/ajax_signed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/mygoal.php" afterPath="$PROJECT_DIR$/apps/mygoal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/json.json" afterPath="$PROJECT_DIR$/data/json.json" />
     </list>
     <ignored path="Paffaris.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14,7 +98,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="true" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -32,17 +116,33 @@
       <file leaf-file-name="signed.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/signed.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="5" selection-start="788" selection-end="788" vertical-scroll-proportion="-3.9285715">
+            <state line="20" column="5" selection-start="788" selection-end="788" vertical-scroll-proportion="-0.78571427">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ajax_signed.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ajax_signed.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/ajax_signed.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="70" selection-start="1760" selection-end="1760" vertical-scroll-proportion="0.46938777">
+            <state line="35" column="12" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mygoal.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/mygoal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="19" selection-start="321" selection-end="321" vertical-scroll-proportion="0.32352942">
+              <folding>
+                <marker date="1360807060884" expanded="true" signature="2165:2295" placeholder="..." />
+                <marker date="1360807060884" expanded="true" signature="2681:2714" placeholder="..." />
+                <marker date="1360807060884" expanded="true" signature="2981:3157" placeholder="..." />
+                <marker date="1360807060884" expanded="true" signature="3094:3157" placeholder="..." />
+                <marker date="1360807060884" expanded="true" signature="3218:3251" placeholder="..." />
+                <marker date="1360807060884" expanded="true" signature="3430:3669" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,22 +189,23 @@
         <option value="$PROJECT_DIR$/common/afteraction.php" />
         <option value="$PROJECT_DIR$/apps/json.php" />
         <option value="$PROJECT_DIR$/TimelineJS-master/example_json.json" />
-        <option value="$PROJECT_DIR$/data/json.json" />
-        <option value="$PROJECT_DIR$/apps/mygoal.php" />
         <option value="$PROJECT_DIR$/views/header.php" />
         <option value="$PROJECT_DIR$/apps/Paffaris.php" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/apps/signed.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/apps/ajax_signed.php" />
+        <option value="$PROJECT_DIR$/data/json.json" />
+        <option value="$PROJECT_DIR$/apps/mygoal.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="1366" />
-    <option name="height" value="744" />
+    <option name="x" value="-1" />
+    <option name="y" value="-6" />
+    <option name="width" value="1368" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -191,46 +292,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="TimelineJS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Paffaris" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Paffaris" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TimelineJS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="compiled" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Paffaris" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Paffaris" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TimelineJS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="compiled" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -366,7 +427,11 @@
       <created>1360753649793</created>
       <updated>1360753649793</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="签到部分进行优化">
+      <created>1360771415436</created>
+      <updated>1360771415436</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -390,15 +455,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
+    <frame x="-1" y="-6" width="1368" height="775" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32569557" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1867378" sideWeight="0.32569557" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1867378" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1882622" sideWeight="0.6743044" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1867378" sideWeight="0.33387887" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -451,7 +516,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成签到部分" />
+    <option name="LAST_COMMIT_MESSAGE" value="签到部分进行优化" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -469,6 +534,7 @@
     <MESSAGE value="基本完成时光轴" />
     <MESSAGE value="基本完成时光轴,补充文件" />
     <MESSAGE value="完成签到部分" />
+    <MESSAGE value="签到部分进行优化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -516,23 +582,14 @@
         <state line="10" column="21" selection-start="225" selection-end="225" vertical-scroll-proportion="0.4288499" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/json.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="31" selection-start="682" selection-end="682" vertical-scroll-proportion="0.8804348">
-          <folding />
-        </state>
+        <state line="23" column="31" selection-start="682" selection-end="682" vertical-scroll-proportion="0.8804348" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/Paffaris.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="24" column="0" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
@@ -542,17 +599,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/mygoal.php">
+    <entry file="file://$PROJECT_DIR$/apps/signed.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="10" selection-start="1830" selection-end="1830" vertical-scroll-proportion="0.8200371">
-          <folding>
-            <marker date="1360688339999" expanded="true" signature="2173:2303" placeholder="..." />
-            <marker date="1360688339999" expanded="true" signature="2689:2722" placeholder="..." />
-            <marker date="1360688339999" expanded="true" signature="2989:3165" placeholder="..." />
-            <marker date="1360688339999" expanded="true" signature="3102:3165" placeholder="..." />
-            <marker date="1360688339999" expanded="true" signature="3226:3259" placeholder="..." />
-            <marker date="1360688339999" expanded="true" signature="3438:3677" placeholder="..." />
-          </folding>
+        <state line="20" column="5" selection-start="788" selection-end="788" vertical-scroll-proportion="-0.78571427">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -563,17 +613,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/signed.php">
+    <entry file="file://$PROJECT_DIR$/apps/ajax_signed.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="5" selection-start="788" selection-end="788" vertical-scroll-proportion="-3.9285715">
+        <state line="35" column="12" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/ajax_signed.php">
+    <entry file="file://$PROJECT_DIR$/data/json.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="70" selection-start="1760" selection-end="1760" vertical-scroll-proportion="0.46938777">
+        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/mygoal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="19" selection-start="321" selection-end="321" vertical-scroll-proportion="0.32352942">
+          <folding>
+            <marker date="1360807060884" expanded="true" signature="2165:2295" placeholder="..." />
+            <marker date="1360807060884" expanded="true" signature="2681:2714" placeholder="..." />
+            <marker date="1360807060884" expanded="true" signature="2981:3157" placeholder="..." />
+            <marker date="1360807060884" expanded="true" signature="3094:3157" placeholder="..." />
+            <marker date="1360807060884" expanded="true" signature="3218:3251" placeholder="..." />
+            <marker date="1360807060884" expanded="true" signature="3430:3669" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

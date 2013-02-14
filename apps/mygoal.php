@@ -32,8 +32,8 @@
             $json['timeline']['date']=array();
             while($result = mysql_fetch_array($response_done)){
                 $json['timeline']['date'][]=array(
-                    "startDate"=>date("Y,m,d,H,i,s",strtotime($result['time'])),
-				    "endDate"=>date("Y,m,d,H,i,s",strtotime($result['endtime'])),
+                    "startDate"=>date("Y,m,d,H",strtotime($result['time'])),
+				    "endDate"=>date("Y,m,d,H",strtotime($result['endtime'])),
                     "headline"=>$result['goal']
                 );
             }
